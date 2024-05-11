@@ -13,6 +13,7 @@ Este projeto é uma excelente ferramenta para quem deseja monitorar o mercado de
 Para usar o aplicativo, basta clonar o repositório, instalar as dependências e iniciar o aplicativo em seu ambiente de desenvolvimento React Native.
 
 <h1>Recursos principais:</h1>
+## ✨ Tecnologias
 <ul dir="auto">
 <li>Exibição em tempo real da cotação do Bitcoin em várias moedas fiduciárias, como USD, EUR, GBP, etc.</li>
 <li>Interface de usuário intuitiva, permitindo aos usuários navegar facilmente pelas informações da cotação.</li>
