@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [coindesk](https://api.coindesk.com/)
-   
+    
 
 ## 💻 Projeto
 
