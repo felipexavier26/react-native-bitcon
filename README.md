@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [coindesk](https://api.coindesk.com/)
     
-
+ 
 ## 💻 Projeto
 
 Este é um aplicativo React Native que permite aos usuários acompanhar a cotação atual do Bitcoin em relação a diferentes moedas fiduciárias. A aplicação utiliza a API do CoinDesk para obter dados em tempo real sobre o preço do Bitcoin e oferece uma interface simples para visualização.
